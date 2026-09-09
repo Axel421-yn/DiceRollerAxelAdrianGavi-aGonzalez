@@ -36,6 +36,8 @@ no tiene JDK ni Android SDK instalados.
 
 ## Versionado
 
-El repositorio local contiene un commit con la base oficial y otro con el ajuste.
-Destino de la entrega: https://github.com/Axel421-yn/DiceRollerAxelAdrianGavi-aGonzalez
-La publicación remota debe verificarse antes de entregar el enlace.
+El código fuente se encuentra versionado en la rama main del repositorio de entrega:
+https://github.com/Axel421-yn/DiceRollerAxelAdrianGavi-aGonzalez
+
+El historial de commits registra la incorporación del código Kotlin, los recursos
+y la configuración de Gradle. Para entregar la actividad, comparte el enlace del repositorio.
